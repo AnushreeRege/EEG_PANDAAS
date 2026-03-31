@@ -24,7 +24,7 @@ Reproduce the Reward Positivity (RewP) — the differential ERP for win vs. loss
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/AnushreeRege/EEG_PANDAAS.git
 cd EEG_PANDAAS
 
 # 2. Install dependencies
