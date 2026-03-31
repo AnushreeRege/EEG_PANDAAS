@@ -6,8 +6,7 @@
 
 ## Paper
 Hassall, C.D., et al. (2022). Probabilistic reward learning task — EEG dataset.
-[https://doi.org/10.1016/j.neuropsychologia.2012.09.027](https://doi.org/10.1016/j.neuropsychologia.2012.09.027)
-
+https://www.sciencedirect.com/science/article/pii/S1053811922005729?via%3Dihub
 ---
 
 ## Dataset
